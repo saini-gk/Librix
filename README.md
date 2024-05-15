@@ -1,2 +1,2 @@
-# Library-Management-System
+# Librix - The Futuristic Library Management System
 Project
