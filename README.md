@@ -22,7 +22,7 @@ Welcome to **Librix**, the next-generation Library Management System designed to
     - Import the provided SQL file to set up the necessary tables.
 
 3. **Configure the database connection**:
-    - Update the database credentials in  [_dbconnect.php](Partials\_dbconnect.php) and [bookdb.php](Partials\bookdb.php).
+    - Update the database credentials in  [_dbconnect.php](Partials/_dbconnect.php) and [bookdb.php](Partials/bookdb.php).
 
 4. **Run the application**:
     - Start your local server (e.g., XAMPP, WAMP).
